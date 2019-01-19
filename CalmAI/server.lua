@@ -1,1 +1,0 @@
-print("CalmAI Loaded. AI is now Relaxed! Coded by NickThe0ne")
